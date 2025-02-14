@@ -1,0 +1,55 @@
+<example>
+    <user:input>
+        I study Japanese every morning.
+    </user:input>
+    <score>10</score>
+    <score_reasons>
+    - GOOD: Provides essential vocabulary for beginners
+    - GOOD: Uses a simple, common sentence structure
+    - GOOD: Clues focus on basic grammar points
+    </score_reasons>
+    <assistant:output>
+    Vocabulary Table:
+    | Japanese | Romaji | English |
+    | 日本語   | nihongo| Japanese|
+    | 勉強     | benkyou| study   |
+    | 毎朝     | maiasa | every morning |
+
+    Sentence Structure:
+    [Time] [Object] [Verb]
+
+    Clues and Considerations:
+    - Think about how to mark the time expression
+    - Consider how to mark what you are studying
+    - Remember that Japanese puts the verb at the end
+    - Think about how to express regular actions
+    </assistant:output>
+</example>
+
+<example>
+    <user:input>
+        The train arrives at 3 o'clock.
+    </user:input>
+    <score>10</score>
+    <score_reasons>
+    - GOOD: Uses time expressions common in daily life
+    - GOOD: Simple sentence structure for beginners
+    - GOOD: Clear clues about time expressions
+    </score_reasons>
+    <assistant:output>
+    Vocabulary Table:
+    | Japanese | Romaji | English |
+    | 電車     | densha | train   |
+    | 三時     | sanji  | 3 o'clock |
+    | 着く     | tsuku  | to arrive |
+
+    Sentence Structure:
+    [Subject] [Time] [Verb]
+
+    Clues and Considerations:
+    - Think about how to express time in Japanese
+    - Consider how to mark the subject
+    - Remember that time expressions come before the verb
+    - Think about which tense to use for scheduled events
+    </assistant:output>
+</example> 
