@@ -4,10 +4,10 @@ A self-hosted GenAI solution for 300 students in Nagasaki, focusing on privacy a
 
 ## Project Parameters
 
-- **Budget**: 10-15K for AI PC/Server
-- **Scale**: 300 active students
-- **Location**: Nagasaki city
-- **Model**: IBM Granite (open-source)
+- Budget: 10-15K for AI PC/Server
+- Scale: 300 active students
+- Location: Nagasaki city
+- Model: IBM Granite (open-source)
 
 ## Core Requirements
 
@@ -25,12 +25,12 @@ A self-hosted GenAI solution for 300 students in Nagasaki, focusing on privacy a
 
 ## Key Components
 
-1. **Content System**
+1. Content System
    - Purchased educational materials
    - Copyright-compliant content
    - Vector embeddings
 
-2. **Infrastructure**
+2. Infrastructure
    - Local server deployment
    - Model weight management
    - Student access control
